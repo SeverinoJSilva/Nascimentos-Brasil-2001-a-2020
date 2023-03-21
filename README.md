@@ -32,7 +32,7 @@ apenas os caso de registro único de qualquer um dos subgrupos abaixo, na catego
 equipamento com 16gb de memória ram para fazer as análise e processar os ajustes nos dados.
 
 - Como o arquivo final é muito grande, adicionei um amostra de 10% do arquivo final, mas não se engane, a amostra contém 
-mais de cinco milões de registros, mais precisamente: 5.604.636 registros
+mais de cinco milhões de registros, mais precisamente: 5.604.636 registros
 
 - Foi utilizado o Jupyter Notebook e a linguagem Python com algumas de suas bibliotecas.
 
