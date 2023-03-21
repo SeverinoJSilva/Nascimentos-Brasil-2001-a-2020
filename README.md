@@ -1,6 +1,6 @@
 ## Levantamento de Nascidos Vivos no Brasil entre os anos de 2001 e 2020.
 
-### 1. O trabalho teve como principal objetivo:
+### 1. O trabalho teve como principais objetivo:
 
 - Levantamento do número de nascimentos no Brasil no período 2001-2020.
  
