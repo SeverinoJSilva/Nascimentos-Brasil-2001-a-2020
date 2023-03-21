@@ -13,12 +13,13 @@ As tabelas foram agrupadas num único arquivo e feito o tratamento nos dados, de
 
 - Considerando a questão fisiológica das mulheres foi considerado apenas mães com idade no intervalo de [10,50];
 - Foi Identificado também registros de nascimentos com mais de uma anomalia registrada e nesse caso, foi definido que a primeira anomalia registrada,
-seria considerada a predominante. Foi definido também um foco mais detalhado está apenas no caso da Sindrome de Down e assim foram selecionados 
+seria considerada a predominante. Foi definido também um foco mais detalhado apenas no caso da Sindrome de Down e assim foram selecionados 
 apenas os caso de registro único de qualquer um dos subgrupos abaixo, na categoria Q90 e nessa categoria existem os seguintes subgrupos:
-         - Q 90.0 - Síndrome de Down, trissomia do 21, por não disjunção meiótica
-         - Q 90.1 - Síndrome de Down, trissomia do 21, mosaicismo por não disjunção mitótica
-         - Q 90.2 - Síndrome de Down, trissomia 21, translocação
-         - Q 90.9 - Síndrome de Down, não específica
+
+    - Q 90.0 Síndrome de Down, trissomia do 21, por não disjunção meiótica;
+    - Q 90.1 Síndrome de Down, trissomia do 21, mosaicismo por não disjunção mitótica;
+    - Q 90.2 Síndrome de Down, trissomia 21, translocação;
+    - Q 90.9 Síndrome de Down, não específica.
 
 - Outras observações sobre o tratamento estão detalhadas nos notebooks.
 
