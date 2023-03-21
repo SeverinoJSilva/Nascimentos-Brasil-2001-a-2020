@@ -1,11 +1,17 @@
 ## Levantamento de Nascidos Vivos no Brasil entre os anos de 2001 e 2020.
 
-### 1. O trabalho teve como principal objetivo além de fazer um levantamento do número de nascimentos no Brasil no período 2001-2020, fazer os seguintes levantamentos:
-- Análise geral sobre o perfil das mães e tendências identificada nos dados ao longo do tempo.
-- Levantar informações sobre tipo de parto, peso médio das crianças entre outras informações. 
-- Optou-se também por aprofundar um levantamento nos dados de nascidos com alguma anomalia identificada e obter dados com mais detalhamento sobre a incidência de Sindrome de Down e suas possiveis relações.
+### 1. O trabalho teve como principal objetivo:
+
+- Levantamento do número de nascimentos no Brasil no período 2001-2020.
+ 
+- Análise do perfil das mães, principalmente em relação a idade.
+ 
+- Levantar informações sobre tipo de parto, peso médio das crianças além de outras informações relacionadas.
+
+- Em relação a saúde das crianças, optou-se também por aprofundar um levantamento nos dados de nascidos com alguma anomalia identificada e obter dados com mais detalhamento sobre a incidência de Sindrome de Down e suas possiveis relações.
 
 ### 2. O conjunto de dados foi obtido de site do Governo Brasileiro, vinvulado ao Ministério da Saúde em Fevereiro de 2023, link abaixo:
+
 - https://opendatasus.saude.gov.br/dataset/sistema-de-informacao-sobre-nascidos-vivos-sinasc-1996-a-2020
 
 ### 3. O período definido de análise foram os dados de 2001 até 2020, por estarem mais completos. As tabelas foram agrupadas num único arquivo e foi realizado o tratamento nos dados, dentre os quais cabe registrar as seguintes observações:
@@ -20,7 +26,8 @@ apenas os caso de registro único de qualquer um dos subgrupos abaixo, na catego
   - Q 90.2 Síndrome de Down, trissomia 21, translocação;
   - Q 90.9 Síndrome de Down, não específica.
 
-### 4 Outras observações relevantes
+### 4. Outras observações relevantes:
+
 - O trabalho foi dividido em 4 partes devido ao tamanho dos dados, os arquivos são muito grandes, ultrapassa 3gb, foi utiliizado
 equipamento com 16gb de memória ram para fazer as análise e processar os ajustes nos dados.
 
