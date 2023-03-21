@@ -20,6 +20,7 @@ apenas os caso de registro único de qualquer um dos subgrupos abaixo, na catego
 - Q 90.2 Síndrome de Down, trissomia 21, translocação;
 - Q 90.9 Síndrome de Down, não específica.
 
+### 4 Outras observações relevantes
 - Outras observações sobre o tratamento estão detalhadas nos notebooks.
 
 - O trabalho foi dividido em 4 partes devido ao tamanho dos dados, os arquivos são muito grandes, ultrapassa 3gb, foi utiliizado
