@@ -38,6 +38,6 @@ mais de cinco milhões de registros, mais precisamente: 5.604.636 registros
 
 - Outras observações importantes foram inseridas diretamente nos notebooks.
 
-- Foi adicionado um relatório do Microsoft PowerBI e um arquivo em PDF para visualização prévido de seu conteúdo.
+- Foi adicionado um relatório do Microsoft PowerBI e um arquivo em PDF para visualização prévia do seu conteúdo.
 
 
